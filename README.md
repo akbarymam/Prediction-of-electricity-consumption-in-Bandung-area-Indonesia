@@ -11,7 +11,7 @@ This project aims to predict electricity consumption in the Bandung area, Indone
 
 ![Prediction tab](images2/Prediction_page.png)
 
-![Region selection](images2/Region_selection.png)
+![Region selection](images2/Region_selection_bar.png)
 
 ![Prediction plot](images2/Prediction_plot.png)
 
