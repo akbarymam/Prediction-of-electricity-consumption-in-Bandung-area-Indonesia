@@ -8,7 +8,7 @@ This project aims to predict electricity consumption in the Bandung area, Indone
 ## Streamlit web overview
 
 ![Menu](images/Menu.png)
-![Prediction tab](images/Prediction_page.png)
-![Region selection](images/Region_selection.png)
-![Prediction plot](images/Prediction_plot.png)
-![Data Analysis tab](images/Data_Analysis_page.png)
+![Prediction tab](images2/Prediction_page.png)
+![Region selection](images2/Region_selection.png)
+![Prediction plot](images2/Prediction_plot.png)
+![Data Analysis tab](images2/Data_Analysis_page.png)
